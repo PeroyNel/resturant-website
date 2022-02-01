@@ -1,0 +1,8 @@
+.app__navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--color-black);
+    padding: 1rem 2rem;
+}
